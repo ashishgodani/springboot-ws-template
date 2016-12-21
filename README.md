@@ -1,0 +1,1 @@
+Springboot template project for generating webservice client
